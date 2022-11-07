@@ -1,0 +1,11 @@
+program
+
+def my_function(x):
+return x[::-1]
+mytxt = my_function("LetsUpgrade")
+print(mytxt)
+
+-------------------------------------------------
+output
+
+edargpUsteL
